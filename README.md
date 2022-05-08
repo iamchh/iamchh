@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamchh
 - 👀 I’m interested in web and application development
-- 🌱 I’m currently learning html, css and java
+- 🌱 I’m currently learning node.js,react
 - 💞️ I’m looking to collaborate on web application
 - 📫 How to reach me ...
 gmail-gurungchhambahadur3@gmail.com
